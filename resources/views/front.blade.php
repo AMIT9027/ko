@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>WHISTLEBz</title>
+    <title>WHISTLEBOX</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="asset/css/libs/animate.css">
     <link rel="stylesheet" href="asset/css/libs/owl.carousel.min.css">
@@ -41,7 +41,7 @@
                                 <li class="menu-item">
                                     <a href="#OurProcess" title="">Our process</a>
                                 </li>
-                                <li class="menu-item"><a href="#Aboutwhistleb" title="">About whistleb </a></li>
+                                <li class="menu-item"><a href="#Aboutwhistleb" title="">About whistlebox </a></li>
                                 <li class="menu-item"><a href="Register"  title="">Register</a></li>
                                 <li class="menu-item"><a href="login"  title="">Login</a></li>
                                 <li class="menu-item"><a href="#Contactform" title="">Contact Us</a></li>
@@ -55,10 +55,10 @@
         <section class="body__conatiner">
             <section class="home__banner" style=" background: image-url("asset/images/web.PNG") center top no-repeat;">
                 <div class="site__fix">
-                    <h1 class="banner__text wow fadeInRight" style=" color:whitesmoke;">
+                    <h1 class="banner__text wow fadeInRight" style=" color:black;">
                         Welcome
                         <br /> To
-                        <br /> whistleb
+                        <br /> whistlebox
 
                     </h1>
                 </div>
@@ -70,10 +70,10 @@
 
             <div id="OurProcess">
                 <div class="site__fix">
-                    <h2>Is whistleb good for beginners?</h2>
+                    <h2>Is whistlebox good for beginners?</h2>
                     <p class="short__dec">
 
-                        It is good to stick with whistleb but remember not to take it as your only
+                        It is good to stick with whistlebox but remember not to take it as your only
                         competitive site. I know how things will go. Firstly, you'll begin with Long
                         Challenge(because that is what everyone suggests). You'll do your first one, you might or might not
                         do well in it.
@@ -85,7 +85,7 @@
                                 <div class="content__block">
                                     <div class="content__block__inner">
                                         <div class="content__block__text">
-                                            <h3>whistleb is a competitive programming community</h3>
+                                            <h3>whistlebox is a competitive programming community</h3>
                                             <p>of programmers from across the globe.</p> <span class="link">EXPLORE </span>
                                         </div>
                                     </div>
